@@ -1,0 +1,6 @@
+{
+  "name": "SKILIVO — Global Learning & Skill-Sharing Platform",
+  "description": "Global learning marketplace and social community connecting students with expert instructors for courses, live classes, and 1-on-1 mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

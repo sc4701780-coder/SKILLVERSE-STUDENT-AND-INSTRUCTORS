@@ -1,0 +1,1033 @@
+# PROJECT: SKILIVO — GLOBAL LEARNING & SKILL-SHARING PLATFORM
+
+Act as a world-class product designer, senior full-stack software engineer, UI/UX specialist, database architect, cybersecurity engineer, and startup technology consultant.
+
+Your task is to design and develop a complete, professional, responsive, scalable web application called **SKILIVO**.
+
+Do not create an ordinary educational website. Build a modern global technology platform that combines an online learning marketplace with a social networking experience.
+
+The platform should connect people who want to learn with people who have the knowledge, experience, and skills to teach.
+
+The experience should combine the best qualities of platforms like Udemy, Coursera, LinkedIn, and modern online communities, while maintaining its own unique identity.
+
+## 1. BRAND IDENTITY
+
+Brand name: SKILIVO
+
+Brand tagline: Learn. Teach. Thrive.
+
+Brand positioning:
+
+"SKILIVO is where knowledge meets opportunity."
+
+Brand mission:
+
+To make learning and teaching accessible to everyone, everywhere, by creating a global community where people can share knowledge, develop valuable skills, connect with instructors, and create opportunities.
+
+Brand personality:
+- Innovative.
+- Intelligent.
+- Welcoming.
+- International.
+- Professional.
+- Youthful but trustworthy.
+- Technology-driven.
+- Community-oriented.
+
+The platform must appeal to students, professionals, entrepreneurs, experienced instructors, beginners, and people looking to acquire practical skills.
+
+Do not make the platform exclusively Nigerian. It must be designed for international users from different countries.
+
+## 2. VISUAL DESIGN AND USER EXPERIENCE
+
+Create a premium interface that looks like a product developed by a leading Silicon Valley technology company.
+
+Design direction:
+- Clean, modern, premium, and visually attractive.
+- White and light-grey backgrounds.
+- Deep indigo as the main brand colour.
+- Electric purple and cyan as accent colours.
+- Dark navy for important text and navigation.
+- Use subtle gradients where appropriate.
+- Use modern typography such as Inter, Manrope, or a similar font.
+- Rounded cards and buttons.
+- Beautiful course thumbnails.
+- Smooth hover effects and transitions.
+- Subtle animations that improve the experience.
+- Professional icons.
+- Proper spacing and visual hierarchy.
+
+Avoid excessive animations, cluttered layouts, generic AI-looking designs, and unnecessary decorative elements.
+
+The website must be fully responsive on:
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Android phones.
+- iPhones.
+
+On mobile devices, navigation and dashboards must be easy to use.
+
+Create a premium logo treatment using the SKILIVO brand name. Keep the logo simple, recognisable, and suitable for an international technology company.
+
+## 3. MAIN WEBSITE NAVIGATION
+
+Create the following navigation:
+
+- Home
+- Explore Courses
+- Categories
+- Become an Instructor
+- Learning Communities
+- About SKILIVO
+- Log In
+- Sign Up
+
+After login, navigation should change according to the user's account type.
+
+## 4. HOMEPAGE
+
+The homepage should immediately communicate what SKILIVO does.
+
+Hero section:
+
+Main headline:
+
+"Your Next Skill Could Change Your Future."
+
+Supporting text:
+
+"Discover new skills, learn from experienced instructors, share your knowledge, and connect with a global community of learners and teachers."
+
+Primary button: Explore Courses
+
+Secondary button: Become an Instructor
+
+Include a visually attractive hero illustration or image showing people learning, teaching, working on laptops, and sharing knowledge.
+
+Below the hero section, create:
+
+A. Popular Learning Categories
+
+Display attractive category cards for:
+
+- Artificial Intelligence.
+- Programming and Technology.
+- Website Development.
+- Graphic Design.
+- Video Editing.
+- Digital Marketing.
+- Business and Entrepreneurship.
+- Photography.
+- Fashion and Tailoring.
+- Languages.
+- Education and Academics.
+- Cooking and Culinary Skills.
+- Music and Creative Arts.
+- Personal Development.
+- Practical and Vocational Skills.
+
+Allow administrators to add, edit, and remove categories.
+
+B. Featured Courses
+
+Display professionally designed course cards containing:
+- Course thumbnail.
+- Course title.
+- Instructor name.
+- Instructor profile picture.
+- Course rating.
+- Number of students.
+- Course price.
+- Course level.
+- Course duration.
+- Enrolment button.
+
+C. Popular Instructors
+
+Display instructor profiles with:
+- Profile picture.
+- Name.
+- Country.
+- Professional title.
+- Skills.
+- Rating.
+- Number of students.
+- Follow button.
+- View Profile button.
+
+D. How SKILIVO Works
+
+Explain the platform in three steps:
+
+1. Discover: Find a skill or instructor.
+2. Learn: Purchase courses, join live lessons, or book private sessions.
+3. Grow: Practise, connect, complete courses, and develop your skills.
+
+E. Become an Instructor
+
+Create an attractive section encouraging experienced people to teach on SKILIVO.
+
+Headline:
+
+"Your Knowledge Has Value. Share It With The World."
+
+Button: Start Teaching.
+
+F. Learning Communities
+
+Show that students can connect, ask questions, discuss lessons, and learn together.
+
+G. Testimonials
+
+Create a testimonial section, but do not invent real customer testimonials. Use clearly labelled sample content during development until genuine reviews are collected.
+
+H. Footer
+
+Include:
+- About SKILIVO.
+- Contact.
+- Help Centre.
+- Frequently Asked Questions.
+- Terms and Conditions.
+- Privacy Policy.
+- Refund Policy.
+- Instructor Guidelines.
+- Community Guidelines.
+- Social media links.
+- Copyright information.
+
+## 5. USER REGISTRATION AND AUTHENTICATION
+
+Create a secure registration and login system.
+
+Users should be able to register as:
+
+1. Student.
+2. Instructor.
+
+Allow a user to access both learning and teaching features through one account where appropriate.
+
+Registration fields:
+- Full name.
+- Email address.
+- Password.
+- Country.
+- Preferred learning language.
+- Account type.
+
+Authentication requirements:
+- Secure login.
+- Email verification.
+- Password reset.
+- Password change.
+- Secure session management.
+- Optional multi-factor authentication.
+- Proper error messages.
+- Logout functionality.
+
+Never store plain-text passwords.
+
+Use secure authentication rather than creating a fake login interface.
+
+## 6. STUDENT DASHBOARD
+
+Create a personalised student dashboard.
+
+The dashboard should include:
+
+- Welcome message.
+- Profile information.
+- Enrolled courses.
+- Recently viewed courses.
+- Learning progress.
+- Saved courses.
+- Followed instructors.
+- Upcoming live classes.
+- Upcoming private lessons.
+- Recent messages.
+- Notifications.
+- Certificates earned.
+- Recommended courses.
+
+Create a student navigation menu:
+
+- Overview.
+- Explore.
+- My Learning.
+- Live Classes.
+- Private Lessons.
+- Saved Courses.
+- Messages.
+- Communities.
+- Certificates.
+- Settings.
+
+### My Learning
+
+Students should be able to:
+
+- View purchased courses.
+- Continue from their last lesson.
+- See completed lessons.
+- Track course progress.
+- Download eligible course resources.
+- Access course discussions.
+- Submit course reviews.
+- Receive certificates when eligible.
+
+### Course Learning Interface
+
+Create a professional learning interface containing:
+
+- Video player.
+- Course title.
+- Course description.
+- Course sections.
+- Lesson list.
+- Previous and next lesson buttons.
+- Downloadable resources.
+- Lesson completion button.
+- Progress indicator.
+- Notes area.
+- Discussion section.
+
+Students should only access paid lessons and downloadable materials when their enrolment or access permissions have been verified.
+
+## 7. INSTRUCTOR DASHBOARD
+
+Create a separate instructor dashboard.
+
+The instructor dashboard should include:
+
+- Total students.
+- Published courses.
+- Draft courses.
+- Total course sales.
+- Total earnings.
+- Pending earnings.
+- Available withdrawal balance.
+- Upcoming live classes.
+- Private lesson bookings.
+- Student reviews.
+- Recent messages.
+- Notifications.
+
+Instructor navigation:
+
+- Overview.
+- My Courses.
+- Create Course.
+- Live Classes.
+- Private Lessons.
+- Students.
+- Messages.
+- Reviews.
+- Earnings.
+- Withdrawals.
+- Profile Settings.
+
+### Instructor Profile
+
+Allow instructors to provide:
+
+- Full name.
+- Profile photograph.
+- Country.
+- Professional title.
+- Biography.
+- Skills.
+- Teaching experience.
+- Qualifications where relevant.
+- Portfolio links.
+- Languages spoken.
+- Social media links.
+
+Allow students to follow instructors and view their published courses.
+
+### Instructor Verification
+
+Create an instructor verification process.
+
+Instructors should submit the required information and documents for administrator review before being approved to publish paid courses.
+
+Display verification status:
+- Not submitted.
+- Under review.
+- Approved.
+- Rejected.
+
+Do not allow unapproved instructors to publish paid courses.
+
+## 8. COURSE CREATION SYSTEM
+
+This is one of the most important features.
+
+Create a professional course builder that allows instructors to create and manage courses.
+
+Course creation fields:
+
+- Course title.
+- Course description.
+- Category.
+- Course thumbnail.
+- Course introduction video.
+- Learning objectives.
+- Requirements.
+- Course level.
+- Course language.
+- Course price.
+- Estimated duration.
+- Course sections.
+- Individual lessons.
+
+Allow instructors to organise lessons into sections and rearrange them.
+
+### Supported Learning Materials
+
+Instructors must be able to upload:
+
+- MP4 videos.
+- PDF documents.
+- PowerPoint presentations.
+- Microsoft Word documents.
+- ZIP files.
+- Images.
+- Audio files.
+- Text lessons.
+- External educational resources.
+
+Support other safe and appropriate educational file formats where technically possible.
+
+Use secure cloud storage.
+
+Course files must not be publicly accessible by default.
+
+### Course Publishing
+
+Allow instructors to:
+
+- Save courses as drafts.
+- Preview courses.
+- Edit courses.
+- Submit courses for review.
+- Publish approved courses.
+- Unpublish courses.
+
+Create an administrator moderation system for paid course publishing.
+
+## 9. LIVE CLASSES
+
+Allow instructors to schedule and conduct live classes.
+
+Features:
+
+- Class title.
+- Description.
+- Date.
+- Start time.
+- Duration.
+- Maximum student capacity.
+- Course association.
+- Class price or free access.
+- Registration and booking.
+- Attendance tracking.
+- Student reminders.
+
+Students should be able to join their live classes from their dashboard.
+
+Integrate a suitable live video provider such as Agora or Daily rather than attempting to build an entire video-conferencing infrastructure from scratch.
+
+Support:
+- Live video.
+- Microphone.
+- Camera.
+- Screen sharing where supported.
+- Chat.
+- Participant management.
+
+Only authorised users should access private classes.
+
+## 10. PRIVATE ONE-ON-ONE LESSONS
+
+Allow instructors to offer private teaching sessions.
+
+Instructors should be able to:
+
+- Set their hourly rates.
+- Create lesson packages.
+- Set available dates.
+- Set available time slots.
+- Manage bookings.
+- Accept or reject booking requests where appropriate.
+
+Students should be able to:
+
+- View instructor availability.
+- Book private lessons.
+- Make payments.
+- Receive booking confirmation.
+- Join scheduled sessions.
+- Reschedule or cancel according to the platform policy.
+
+Create a booking management interface for both parties.
+
+## 11. LEARNING COMMUNITIES AND SOCIAL FEATURES
+
+SKILIVO should not feel like an ordinary course-selling website.
+
+It should feel like a learning community.
+
+Create a social learning environment containing:
+
+### Follow System
+
+Users should be able to follow instructors and other learners.
+
+### Posts
+
+Allow users to publish:
+- Text posts.
+- Images.
+- Educational updates.
+- Learning achievements.
+- Questions.
+- Helpful resources.
+
+### Comments and Reactions
+
+Allow users to:
+- Comment on posts.
+- Reply to comments.
+- Like or react to posts.
+- Share posts where permitted.
+
+### Learning Communities
+
+Create communities based on interests and skills.
+
+Examples:
+- Artificial Intelligence Community.
+- Web Development Community.
+- Graphic Design Community.
+- Digital Marketing Community.
+- Photography Community.
+- Business Community.
+- Language Learning Community.
+
+Users should be able to:
+- Join communities.
+- Create posts.
+- Ask questions.
+- Share educational materials.
+- Participate in discussions.
+- Report inappropriate content.
+
+### Messaging
+
+Create a secure messaging system.
+
+Users should be able to:
+- Send private messages.
+- Receive messages.
+- View conversations.
+- See message timestamps.
+- Receive notifications.
+- Block or report abusive accounts.
+
+Do not expose private messages publicly.
+
+## 12. LEARNING PATHS
+
+Create a learning-path feature that helps students progress from beginner to advanced levels.
+
+For example:
+
+Website Development Learning Path:
+
+1. Introduction to the Internet.
+2. HTML Fundamentals.
+3. CSS Fundamentals.
+4. JavaScript.
+5. Responsive Web Design.
+6. Frontend Development.
+7. Backend Development.
+8. Database Management.
+9. Website Deployment.
+10. Advanced Projects.
+
+Allow administrators to create learning paths and assign courses to each stage.
+
+Students should be able to track their progress through each learning path.
+
+Display the next recommended course.
+
+## 13. COURSE RATINGS AND CERTIFICATES
+
+Allow students who have legitimately enrolled in a course to submit reviews.
+
+Review features:
+- One-to-five-star rating.
+- Written feedback.
+- Review date.
+- Verified enrolment indicator.
+
+Create a certificate system.
+
+Students should receive certificates after meeting the completion requirements established for an eligible course.
+
+Certificates should include:
+- SKILIVO branding.
+- Student name.
+- Course title.
+- Instructor name.
+- Completion date.
+- Unique certificate identification number.
+- Verification link or code.
+
+Create a certificate verification page.
+
+## 14. PAYMENT SYSTEM
+
+Build a secure payment system designed for an international marketplace.
+
+Initial payment provider to investigate and integrate: Flutterwave.
+
+Keep the payment architecture flexible so that other approved payment providers can be added later.
+
+The platform should be prepared for multiple currencies and international transactions, subject to payment provider support and merchant approval.
+
+### Payment Process
+
+1. Student selects a course.
+2. Student proceeds to checkout.
+3. Backend creates a pending order.
+4. Student completes payment through the payment provider.
+5. Backend receives the provider webhook.
+6. Backend verifies the payment independently.
+7. The order is marked as paid only after successful verification.
+8. Student receives course access.
+9. Instructor earnings and platform commission are recorded.
+
+Never grant paid course access based only on a successful-looking browser redirect.
+
+### Platform Commission
+
+Start with a configurable proposed platform commission of 15%.
+
+Example:
+
+If a course sells for $100:
+- Instructor share: $85.
+- Platform commission: $15.
+
+This is an illustrative calculation before payment processing costs, taxes, refunds, and other applicable expenses.
+
+Allow administrators to change the commission percentage.
+
+### Instructor Earnings
+
+Create an earnings ledger.
+
+Track:
+- Course sales.
+- Private lesson payments.
+- Live class payments.
+- Platform commission.
+- Refunds.
+- Chargebacks.
+- Payment processing costs where available.
+- Instructor earnings.
+- Withdrawals.
+
+Instructors should be able to request withdrawals.
+
+Administrators should review and process eligible withdrawal requests according to the approved payment provider arrangement.
+
+IMPORTANT:
+
+Do not build an unapproved stored-value wallet or claim that SKILIVO can hold customer funds in escrow.
+
+The payment and payout model must comply with the payment provider's rules and applicable financial regulations.
+
+Use test or sandbox mode until the necessary merchant approvals and payment credentials are supplied.
+
+Never invent payment API keys or credentials.
+
+## 15. ADMINISTRATOR DASHBOARD
+
+Create a separate secure administrator dashboard.
+
+Only authorised administrators should access it.
+
+Admin features:
+
+### Overview
+- Total users.
+- Total students.
+- Total instructors.
+- Pending instructor applications.
+- Published courses.
+- Pending courses.
+- Total transactions.
+- Platform revenue.
+- Withdrawal requests.
+- Reported content.
+
+### User Management
+- View users.
+- Search users.
+- Suspend accounts.
+- Restore accounts.
+- Review user profiles.
+- Manage user roles.
+
+### Instructor Management
+- Review instructor applications.
+- Approve instructors.
+- Reject applications.
+- Suspend instructors.
+- Review instructor profiles.
+
+### Course Management
+- Review submitted courses.
+- Approve courses.
+- Reject courses.
+- Remove inappropriate content.
+- Feature selected courses.
+- Manage categories.
+
+### Payment Management
+- View transactions.
+- Review payment status.
+- View platform commission.
+- View instructor earnings.
+- Review refunds.
+- Review chargebacks.
+- Process eligible withdrawal requests.
+
+### Community Moderation
+- Review reported posts.
+- Remove inappropriate content.
+- Suspend abusive accounts.
+- Manage community guidelines.
+
+### Platform Settings
+- Change platform commission.
+- Manage categories.
+- Manage featured courses.
+- Manage homepage content.
+- Manage notifications.
+- Manage platform policies.
+
+Include administrative audit logs for important actions.
+
+## 16. NOTIFICATIONS
+
+Create an in-app notification system.
+
+Users should receive notifications for:
+
+- Successful purchases.
+- New course enrolments.
+- Upcoming classes.
+- Private lesson bookings.
+- New messages.
+- New followers.
+- Community replies.
+- Course updates.
+- Certificate awards.
+- Withdrawal status changes.
+
+Prepare the system for email and push notifications.
+
+## 17. SEARCH AND DISCOVERY
+
+Create a powerful search system.
+
+Users should be able to search for:
+- Courses.
+- Instructors.
+- Skills.
+- Categories.
+- Learning communities.
+- Learning paths.
+
+Filters should include:
+- Category.
+- Price.
+- Country.
+- Language.
+- Course level.
+- Rating.
+- Instructor verification.
+- Learning format.
+
+Include sorting by:
+- Most popular.
+- Highest rated.
+- Newest.
+- Lowest price.
+- Highest price.
+
+## 18. DATABASE AND BACKEND ARCHITECTURE
+
+Use a clean, scalable architecture.
+
+Recommended technology stack:
+
+Frontend:
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+- shadcn/ui.
+
+Backend:
+- Node.js.
+- NestJS or a well-structured Next.js backend for the initial MVP.
+
+Database:
+- PostgreSQL.
+
+Authentication:
+- Supabase Auth or another secure authentication provider.
+
+File storage:
+- Supabase Storage or S3-compatible storage.
+
+Live video:
+- Agora or Daily.
+
+Payments:
+- Flutterwave integration, subject to approval.
+
+Notifications:
+- Firebase Cloud Messaging and email integration.
+
+Monitoring:
+- Sentry or an equivalent monitoring service.
+
+Hosting:
+- Vercel for the frontend and suitable managed hosting for backend services.
+
+Use a modular architecture that can grow as the platform expands.
+
+Create appropriate database entities and relationships for:
+
+- Users.
+- Student profiles.
+- Instructor profiles.
+- Instructor verification.
+- Categories.
+- Courses.
+- Course sections.
+- Lessons.
+- Lesson resources.
+- Enrolments.
+- Course reviews.
+- Live classes.
+- Class bookings.
+- Private lessons.
+- Lesson bookings.
+- Communities.
+- Community memberships.
+- Posts.
+- Comments.
+- Reactions.
+- Follows.
+- Conversations.
+- Messages.
+- Orders.
+- Payments.
+- Instructor ledger.
+- Platform ledger.
+- Withdrawal requests.
+- Certificates.
+- Learning paths.
+- Notifications.
+- Reports.
+- Administrative audit logs.
+
+Use proper foreign keys, database constraints, indexes, and access permissions.
+
+Never store important financial records only in frontend state.
+
+## 19. SECURITY AND DATA PROTECTION
+
+Security must be considered from the beginning.
+
+Implement:
+
+- Secure authentication.
+- Role-based access control.
+- Server-side permission checks.
+- Row-level security where supported.
+- Secure file uploads.
+- Private storage buckets.
+- Temporary signed download links.
+- Payment webhook signature verification.
+- Server-side payment verification.
+- API rate limiting.
+- Input validation.
+- Protection against common web vulnerabilities.
+- Secure session management.
+- Database backups.
+- Error monitoring.
+- Audit logs.
+
+Students must not be able to access another student's private information.
+
+Instructors must not be able to modify another instructor's courses or financial records.
+
+Administrators must have protected access to administrative functions.
+
+Do not expose API secrets, database credentials, or payment keys in frontend code.
+
+Include appropriate privacy, copyright, refund, and community policies.
+
+Prepare the application for applicable data protection requirements, including Nigerian and international privacy laws where relevant.
+
+## 20. PERFORMANCE AND ACCESSIBILITY
+
+The application should:
+
+- Load quickly.
+- Work well on slow internet connections.
+- Optimise images.
+- Lazy-load appropriate content.
+- Use responsive layouts.
+- Support keyboard navigation.
+- Use readable text and accessible colour contrast.
+- Display loading states.
+- Display meaningful error messages.
+- Provide empty states when no content exists.
+
+Make the platform usable for people with different levels of technical experience.
+
+## 21. IMPORTANT DEVELOPMENT RULES
+
+Do not attempt to build every feature in one unstructured code-generation step.
+
+Develop the application in organised phases.
+
+PHASE 1 — CORE MVP
+
+Build first:
+
+1. Premium homepage.
+2. Registration and login.
+3. Student dashboard.
+4. Instructor dashboard.
+5. Instructor profile and verification.
+6. Course creation.
+7. Video and document uploads.
+8. Course discovery and search.
+9. Course details.
+10. Checkout interface.
+11. Secure payment verification architecture.
+12. Course enrolment and access control.
+13. Basic course progress tracking.
+14. Course reviews.
+15. Secure admin dashboard.
+
+PHASE 2 — INTERACTIVE LEARNING
+
+Add:
+
+1. Live classes.
+2. Private lesson bookings.
+3. Instructor earnings.
+4. Withdrawal requests.
+5. Messaging.
+6. Notifications.
+7. Certificates.
+
+PHASE 3 — SOCIAL LEARNING
+
+Add:
+
+1. Learning communities.
+2. Social posts.
+3. Comments and reactions.
+4. Following system.
+5. Learning paths.
+6. Advanced discovery.
+7. Personalised recommendations.
+
+PHASE 4 — GLOBAL EXPANSION
+
+Prepare for:
+
+1. Multiple currencies.
+2. Additional payment providers.
+3. International instructor payouts.
+4. Additional languages.
+5. Mobile applications.
+6. Corporate learning accounts.
+7. Advanced analytics.
+8. AI-powered learning assistance.
+
+## 22. TESTING AND QUALITY CONTROL
+
+Do not consider a feature complete simply because its interface looks correct.
+
+Test actual functionality.
+
+Verify that:
+
+- Registration creates real user accounts.
+- Login works.
+- Student and instructor roles are enforced.
+- Instructors can create and save courses.
+- Files upload to storage.
+- Students can discover courses.
+- Course enrolment works.
+- Unpaid users cannot access paid lessons.
+- Verified payments grant access.
+- Failed payments do not grant access.
+- Instructors cannot access another instructor's private records.
+- Admin functions are protected.
+- Mobile navigation works.
+- Forms validate correctly.
+- Errors are handled properly.
+
+Create clear instructions for configuring environment variables and external services.
+
+Do not fabricate successful payment transactions, real instructors, genuine testimonials, or actual student enrolments.
+
+Any demonstration data must be clearly identified as sample data.
+
+## 23. FINAL PRODUCT EXPECTATION
+
+The final result should look and feel like a real international technology startup.
+
+SKILIVO must be more than a website where people buy courses.
+
+It must become a place where:
+
+- People discover what they want to learn.
+- Skilled people earn money by teaching.
+- Students connect with instructors.
+- People exchange knowledge.
+- Communities grow around shared interests.
+- Learners develop real-world abilities.
+- Knowledge becomes opportunity.
+
+The overall experience should be polished, trustworthy, visually impressive, easy to navigate, mobile-friendly, secure, and scalable.
+
+Begin by establishing the project architecture, database structure, authentication, design system, and homepage.
+
+Then build the application phase by phase.
+
+Before implementing each major phase, explain the files and components you intend to create, the services that need configuration, and how the feature will connect to the existing system.
+
+Preserve working functionality when adding new features.
+
+Do not replace working application code with mockups.
+
+Do not leave important buttons non-functional.
+
+If an external service requires API credentials or approval, build the integration structure, clearly identify the missing configuration, and provide instructions for completing it.
+
+The objective is to deliver a working foundation for a serious global product called SKILIVO.
